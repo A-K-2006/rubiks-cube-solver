@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="RubiksCubeSolver"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RubiksCubeSolver">
+				<Option output="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/RubiksCubeSolver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 RubiksCubeSolver"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="RubiksCubeSolver/fast">
+				<Option output="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/RubiksCubeSolver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 RubiksCubeSolver/fast"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j10 -f &quot;/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Model/PatternDatabase/PatternDatabase.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Model/RubiksCube.cpp">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Model/RubiksCube.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Model/RubiksCube1dArray.cpp">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Model/RubiksCube3dArray.cpp">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Model/RubiksCubeBitboard.cpp">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/CornerDBMaker.cpp">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/CornerDBMaker.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/CornerPatternDatabase.cpp">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/CornerPatternDatabase.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/NibbleArray.cpp">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/NibbleArray.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/PatternDatabase.cpp">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/PatternDatabase.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/PermutationIndexer.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/math.cpp">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/PatternDatabases/math.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Solver/BFSSolver.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Solver/DFSSolver.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Solver/IDAstarSolver.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/Solver/IDDFSSolver.h">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/main.cpp">
+			<Option target="RubiksCubeSolver"/>
+		</Unit>
+		<Unit filename="/Users/sagarwa1/Documents/GitHub/RubiksCubeSolver/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
